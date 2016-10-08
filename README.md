@@ -1,3 +1,3 @@
 # RecyclerView-Gson-AndroidAsync-Demo
 
-!(image/img1.png)
+![screenshot](/image/img1.png)
